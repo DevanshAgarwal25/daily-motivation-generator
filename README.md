@@ -49,7 +49,7 @@ Built with Streamlit for instant interaction and visual feedback.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/daily-motivation-generator.git
+git clone https://github.com/DevanshAgarwal25/daily-motivation-generator.git
 cd daily-motivation-generator
 
 # 2. Install dependencies
@@ -64,12 +64,12 @@ streamlit run app.py
 ## 📁 Project Structure
 
 ```
-daily-motivation-generator/
+daily_motivation_project/
 ├── app.py                    # Main Streamlit app
-├── requirements.txt          # Python dependencies
+├── requirements.txt          # Dependencies list
+├── README.md                 # Project documentation
 └── .streamlit/
-    └── config.toml (optional)
-```
+    └── secrets.toml          # (Optional) OpenAI key if used previously
 
 ---
 
