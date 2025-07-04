@@ -28,7 +28,8 @@ Built with Streamlit for instant interaction and visual feedback.
 
 ## 🖼️ Screenshots
 
-> _(Insert screenshots here)_  
+![image](https://github.com/user-attachments/assets/656b2fc8-74e8-4b62-b312-57e744a59206)
+
 - App landing page  
 - Mood dropdown and button  
 - Generated motivational message
