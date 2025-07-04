@@ -29,6 +29,9 @@ Built with Streamlit for instant interaction and visual feedback.
 ## 🖼️ Screenshots
 
 ![image](https://github.com/user-attachments/assets/656b2fc8-74e8-4b62-b312-57e744a59206)
+![image](https://github.com/user-attachments/assets/77fc332d-bf45-4b14-9156-9ec8d5c155c9)
+![image](https://github.com/user-attachments/assets/1d250061-6812-49ed-9347-cc49dec40afc)
+
 
 - App landing page  
 - Mood dropdown and button  
